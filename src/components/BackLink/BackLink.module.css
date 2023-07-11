@@ -1,0 +1,8 @@
+.back:hover{
+    color: #1f354b;
+    scale: 1.1;
+}
+
+.back{
+    transition: 500ms;
+}
